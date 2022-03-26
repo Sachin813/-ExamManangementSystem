@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8cadb4f-a3fd-416d-8d8b-6fc363f35718" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EXAM MANAGMENT SYSTEM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EXAM MANAGMENT SYSTEM/com/db/jdbc/JDBCCONNECT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EXAM MANAGMENT SYSTEM/com/ems/utilty/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/EXAM MANAGMENT SYSTEM/com/ems/utilty/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/db/jdbc/JDBCCONNECT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ems/utilty/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ems/utilty/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
